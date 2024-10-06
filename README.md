@@ -5,4 +5,5 @@ This project is a static landing page of a shoe making company.
 This is a static website.
 Here is a preview- 
   
-  ![Screenshot 2024-10-06 160125](https://github.com/user-attachments/assets/0bb2f2c3-39c8-451a-b7fd-3e61cbaa57e9)
+  ![Screenshot 2024-10-06 163003](https://github.com/user-attachments/assets/591a761e-8957-4b8b-9aa4-b085cb23a25f)
+
