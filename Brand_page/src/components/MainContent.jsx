@@ -13,7 +13,12 @@ export default function MainComponent() {
           <div className='flex justify-between w-44'>
             <button className='bg-red-600 text-white p-1 rounded hover:bg-red-500'>Shop Now</button>
             <button className='border hover:bg-slate-200 border-black p-1 rounded'>Category</button>
-          </div>
+          </div> 
+          <div className='felx flex-col w-40 gap-y-1'>
+            <p className='text-slate-500'>Also available on</p>
+            <img src={`/images/shops.png`}/>
+          </div>   
+          
 
         </div>
         <div className='object-contain'>
